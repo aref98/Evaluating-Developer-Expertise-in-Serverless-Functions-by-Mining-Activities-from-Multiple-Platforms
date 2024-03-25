@@ -1,4 +1,4 @@
-# Evaluating-Developer-Expertise-in-Serverless-Functions-by-Mining-Activities-from-Multiple-Platforms
+# Evaluating Developer Expertise in Serverless Functions by Mining Activities from Multiple Platforms
 
 This repository contains six public datasets related to our research on predicting developer expertise within the realm of serverless functions. **You can find the article at the following URL: https://cke.um.ac.ir/article_45050.html.** These datasets were created using features extracted from GitHub and Stack Overflow, and they represent our target languages.
 
